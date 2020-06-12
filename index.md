@@ -8,7 +8,7 @@ title: Summer 2020 DREU Project Site
 
 ## About Me
 
-<img src="https://kmwright1.github.io/images/JOKE3874.JPG" height="165" width="130">
+<img src="https://kmwright1.github.io/images/JOKE3874.JPG" height="165" width="140">
 
 My name is Keanna Wright and I am a rising Junior Computer Engineering student at North Carolina Agricultural & Technical State University. I plan to graduate Spring semester 2022. A few organizations that I am a part of include Alpha Lambda Delta: National Society for first year success, Society of Women Engineers, and National Society of Black Engineers.
 
