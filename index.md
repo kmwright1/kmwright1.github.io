@@ -17,7 +17,7 @@ I am so excited about this summer DREU experience. Being able to contribute to a
 To contact me please click the email icon located at the bottom of the page.
 
 ## About My Mentor
-**Monica Anderson**
+**Dr. Monica Anderson**
 
 <img src="https://cs.ua.edu/wp-content/uploads/2015/03/Anderson_Monica-800x1000.jpg" height="200" width="150">
 
