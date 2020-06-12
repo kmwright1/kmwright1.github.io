@@ -17,9 +17,8 @@ I am so excited about this summer DREU experience. Being able to contribute to a
 To contact me please use the email link located at the bottom of the page.
 
 ## About My Mentor
-## Dr. Monica Anderson
 
-Dr. Anderson is an Associate Professor at the University of Alabama in the Computer Science Department. Dr. Anderson received her Ph.D. in Computer Science and Engineering at the University of Minnesota and received her B.S. in Computer Science at Chicago State University. 
+Dr. Monica Anderson is an Associate Professor at the University of Alabama in the Computer Science Department. Dr. Anderson received her Ph.D. in Computer Science and Engineering at the University of Minnesota and received her B.S. in Computer Science at Chicago State University. 
 
 Dr. Monica Anderson's research interests include robotics and multiagent/multirobot autonomy, teaming with humans and user interfaces and their effect on trust. For more information on Dr. Anderson and her research please visit the link below.
 
