@@ -7,6 +7,7 @@ title: Summer 2020 DREU Project Site
 {:toc}
 
 ## About Me
+**Keanna Wright**
 
 <img src="https://kmwright1.github.io/images/JOKE3874.JPG" height="165" width="140">
 
@@ -31,7 +32,14 @@ Dr. Monica Anderson's research interests include robotics and multiagent/multiro
 
 ## About My Project
 
-For my 2020 DREU Project I am creating an immersive virtual reality environment. This virtual reality simulation will be used to not only help others but to also
+For my 2020 DREU Project I am creating an immersive virtual reality environment. Virtual Reality is known for being immersive and can provide a hands on learning experience. This virtual reality simulation will be used to not only help others but to also create new studies. I am using Unity to build this virtual environment. I will also be using an Oculus Quest to test out my virtual reality environment. Below I have provided a few of my project goals and a link to my final report.
+
+**Project Goals:**
+* Create plain VR Environment in Unity.
+* Add static elements to the Unity scene.
+* Create hands on animations.
+* Make environment interactable.
+* Test environment with Occulus Quest.
 
 [My Final Report](files/finalreport.pdf)
 
