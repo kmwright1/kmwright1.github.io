@@ -17,6 +17,8 @@ I am so excited about this summer DREU experience. Being able to contribute to a
 To contact me please use the email link located at the bottom of the page.
 
 ## About My Mentor
+**Monica Anderson**
+![Dr.Anderson](https://cs.ua.edu/wp-content/uploads/2015/03/Anderson_Monica-800x1000.jpg)
 
 Dr. Monica Anderson is an Associate Professor at the University of Alabama in the Computer Science Department. Dr. Anderson received her Ph.D. in Computer Science and Engineering at the University of Minnesota and received her B.S. in Computer Science at Chicago State University. 
 
@@ -26,7 +28,7 @@ Dr. Monica Anderson's research interests include robotics and multiagent/multiro
 
 ## About My Project
 
-Project description goes here.
+For my 2020 DREU Project I am creating an immersive virtual reality environment. This virtual reality simulation will be used to not only help others but to also
 
 [My Final Report](files/finalreport.pdf)
 
