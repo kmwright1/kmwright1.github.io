@@ -18,7 +18,7 @@ To contact me please use the email link located at the bottom of the page.
 
 ## About My Mentor
 **Monica Anderson**
-![Dr.Anderson](https://cs.ua.edu/wp-content/uploads/2015/03/Anderson_Monica-800x1000.jpg =24x48)
+<img src="https://cs.ua.edu/wp-content/uploads/2015/03/Anderson_Monica-800x1000.jpg" height="24" width="48">
 
 Dr. Monica Anderson is an Associate Professor at the University of Alabama in the Computer Science Department. Dr. Anderson received her Ph.D. in Computer Science and Engineering at the University of Minnesota and received her B.S. in Computer Science at Chicago State University. 
 
