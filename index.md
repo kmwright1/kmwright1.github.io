@@ -14,7 +14,7 @@ I grew up in Hampton, Virginia and have always had a passion for Computer Scienc
 
 I am so excited about this summer DREU experience. Being able to contribute to a research project that can help others, while also expanding my learning is such an amazing opportunity. 
 
-To contact me please use the email link located at the bottom of the page.
+To contact me please click the email icon located at the bottom of the page.
 
 ## About My Mentor
 **Monica Anderson**
