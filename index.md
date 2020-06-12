@@ -39,7 +39,7 @@ For my 2020 DREU Project I am creating an immersive virtual reality environment.
 * Add static elements to the Unity scene.
 * Create hands on animations.
 * Make environment interactable.
-* Test environment with Occulus Quest.
+* Test environment with Oculus Quest.
 
 [My Final Report](files/finalreport.pdf)
 
