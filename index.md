@@ -32,7 +32,7 @@ Dr. Monica Anderson's research interests include robotics and multiagent/multiro
 
 ## About My Project
 
-For my 2020 DREU Project I am creating an immersive virtual reality environment. Virtual Reality is known for being immersive and can provide a hands on learning experience. This virtual reality simulation will be used to not only help others but to also create new studies. I am using Unity to build this virtual environment. I will also be using an Oculus Quest to test out my virtual reality environment. Below I have provided a few of my project goals and a link to my final report.
+For my 2020 DREU Project I am creating an immersive virtual reality environment. Virtual Reality is known for being immersive and can provide a hands on learning experience. This virtual reality simulation will be used to not only help others but to also create new studies. I am using Unity to build this virtual environment. I will also be using an Oculus Quest to test out my virtual reality environment. I am working along side of Nyala Jackson, who is also an undergraduate student researcher. She is creating her virtual reality environment using React360. Below I have provided a few of my project goals and a link to my final report.
 
 **Project Goals:**
 * Create plain VR Environment in Unity.
